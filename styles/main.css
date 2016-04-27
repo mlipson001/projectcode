@@ -206,7 +206,7 @@ a {
 .image:hover {
 	-webkit-animation-play-state:paused;
     -moz-animation-play-state:paused;
-    -o-animation-play-state:paused; 
+    -ms-animation-play-state:paused; 
     animation-play-state:paused;
 	-webkit-box-shadow: inset 0px 0px 109px 43px rgba(51,51,51,1);
 	-moz-box-shadow: inset 0px 0px 109px 43px rgba(51,51,51,1);
@@ -246,18 +246,6 @@ a {
 	}
 	
 }
-.image:hover {
-	-webkit-animation-play-state:paused;
-    -moz-animation-play-state:paused;
-    -ms-animation-play-state:paused; 
-    animation-play-state:paused;
-}
-
-
-
-
-
-
 
 .container {
 	font-family: 'Raleway', sans-serif; 
